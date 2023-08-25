@@ -1,0 +1,15 @@
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\obj\Debug\net7.0\Seminar7_HomeWork.csproj.AssemblyReference.cache
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\obj\Debug\net7.0\Seminar7_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\obj\Debug\net7.0\Seminar7_HomeWork.AssemblyInfoInputs.cache
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\obj\Debug\net7.0\Seminar7_HomeWork.AssemblyInfo.cs
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\obj\Debug\net7.0\Seminar7_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\bin\Debug\net7.0\Seminar7_HomeWork.exe
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\bin\Debug\net7.0\Seminar7_HomeWork.deps.json
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\bin\Debug\net7.0\Seminar7_HomeWork.runtimeconfig.json
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\bin\Debug\net7.0\Seminar7_HomeWork.dll
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\bin\Debug\net7.0\Seminar7_HomeWork.pdb
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\obj\Debug\net7.0\Seminar7_HomeWork.dll
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\obj\Debug\net7.0\refint\Seminar7_HomeWork.dll
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\obj\Debug\net7.0\Seminar7_HomeWork.pdb
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\obj\Debug\net7.0\Seminar7_HomeWork.genruntimeconfig.cache
+C:\Users\sotni\OneDrive\Документы\C#\Seminar7\Seminar7_HomeWork\obj\Debug\net7.0\ref\Seminar7_HomeWork.dll
