@@ -106,7 +106,7 @@ GetCoordinate(arr);
 // 5 9 2 3
 // 8 4 2 4
 // Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
-
+/*
 int[,] CreateArr()
 {
     Console.WriteLine();
@@ -149,7 +149,7 @@ void getSum(int[,] arr)
         }
         double average = Math.Round(sum / arr.GetLength(0), 2);
         Console.WriteLine($"AVG of colomn {j + 1}: {average}");
-        /* другое оформление ответа
+            //другое оформление ответа
             //     if (j != 0)
             //     {
             //         result += "; ";
@@ -158,9 +158,11 @@ void getSum(int[,] arr)
             // }
 
             // Console.WriteLine($"AVG of each coloms: {result});
-            */
+        
     }
 }
 int[,] arr = CreateArr();
 WriteArr(arr);
 getSum(arr);
+
+*/
