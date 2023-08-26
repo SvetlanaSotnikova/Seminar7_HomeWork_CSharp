@@ -149,20 +149,13 @@ void getSum(int[,] arr)
         }
         double average = Math.Round(sum / arr.GetLength(0), 2);
         Console.WriteLine($"AVG of colomn {j + 1}: {average}");
-            //другое оформление ответа
-            //     if (j != 0)
-            //     {
-            //         result += "; ";
-            //     }
-            //     result += average.ToString();
-            // }
-
-            // Console.WriteLine($"AVG of each coloms: {result});
-        
+        //другое оформление ответа
+        //     if (j != 0) result += "; ";
+        //     result += average.ToString();
     }
+        // Console.WriteLine($"AVG of each coloms: {result});        
 }
 int[,] arr = CreateArr();
 WriteArr(arr);
 getSum(arr);
-
 */
